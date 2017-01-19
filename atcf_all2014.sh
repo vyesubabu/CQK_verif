@@ -1,0 +1,2 @@
+./atcf_plot.sh composite 2012083012 2012091112 H213 LESLIE al122012 6
+./atcf_plot.sh composite 2012091012 2012100412 T14C NADINE al142012 6

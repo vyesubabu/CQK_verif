@@ -1,0 +1,10 @@
+#
+# This is the namelist for plotting a set of models track and intensity
+# outputs in the ATCF format that is valid at the same time.
+# 
+       model   color   style      
+list:  HWFI     2        1
+list:  GHMI     5        1
+list:  OFCL     4        1
+list:  AVNI     5        1
+list:  EMXI     4        1
